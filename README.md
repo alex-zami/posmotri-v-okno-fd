@@ -1,1 +1,1 @@
-[Посмотри в окно](https://github.com/alex-zami/posmotri-v-okno-fd)
+https://github.com/alex-zami/posmotri-v-okno-fd
