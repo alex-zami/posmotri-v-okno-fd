@@ -178,6 +178,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin-bottom: 30px;
 }
 
 .content__video-card {
@@ -231,7 +232,7 @@ ol {
   outline: none;
 }
 
-.content__card-link:focus {
+.content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
 
@@ -262,10 +263,6 @@ ol {
   line-height: 20px;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
-}
-
-.content__list {
-  margin-bottom: 30px;
 }
 
 /* Кнопки */
